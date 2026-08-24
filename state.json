@@ -2,13 +2,13 @@
   "Istanbul Piyalepasa": {
     "available": false,
     "checked_at": "2026-07-28 21:48 UTC",
-    "error_count": 301,
+    "error_count": 302,
     "error_warned": true
   },
   "Ankara Cankaya": {
     "available": false,
     "checked_at": "2026-07-28 21:48 UTC",
-    "error_count": 301,
+    "error_count": 302,
     "error_warned": true
   }
 }
